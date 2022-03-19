@@ -1,4 +1,4 @@
-do or do not, there is no try
+do or do not, 
 
 it always seems impossible until its done
 
@@ -12,4 +12,4 @@ added from local
 
 added more from github+ local
 
-asdkf
+asdf
